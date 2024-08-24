@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Game Design, New Tech and cyber security (after Im doing learning it)
 - 📫 How to reach me - You can mail me on bajadparth@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im very enthusiastic about games and its mechanics but dont want to stick to it for future point of view. Expanding on Modelling and Game Engines. 
+- ⚡ Fun fact: Im very enthusiastic about games and its mechanics but dont want to stick to it for future point of view. Expanding on Modelling and Game Engines. Im VERY new to GitHub so Im open for any help and advice!
+- Thank you
 
 <!---
 Ace72-stack/Ace72-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
